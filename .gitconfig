@@ -1,0 +1,16 @@
+[alias]
+        ayy     = init
+        chill   = clone
+        wtf     = diff
+        babe    = log
+
+
+        sup     = status
+        sendit  = push
+        getit   = pull
+        yo      = add .
+        bruh    = commit -v
+
+        ffs     = rebase
+        ayo     = reset
+        peace   = stash
