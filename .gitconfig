@@ -4,7 +4,6 @@
         wtf     = diff
         babe    = log
 
-
         sup     = status
         sendit  = push
         getit   = pull
